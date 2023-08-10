@@ -1,18 +1,6 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://nitin_dm.vercel.app/" target="_blank">Nitin.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
-
-<br/>
-
+<!----Code to get the Github: repo stars and fork  ----->
 <center>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 ![GitHub Repo stars](https://img.shields.io/github/stars/NITIN0601/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/NITIN0601/Portfolio?color=red&logo=github&style=for-the-badge)
 
@@ -25,7 +13,7 @@
     <a href="https://github.com/NITIN0601/Portfolio/issues">Request Feature</a>
 </h3>
 
-## TL;DR
+## Fork - Repo
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [NITIN0601](https://github.com/NITIN0601/Portfolio). Thanks!
 
