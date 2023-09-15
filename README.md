@@ -1,7 +1,7 @@
- # <p align="center"> Nitin Dunday Mohan
+ #  Nitin Dunday Mohan
 
 
-### <p align="center">  [LinkedIn](https://www.linkedin.com/in/nitindm97)   |   [GitHub](https://github.com/NITIN0601)    |   [Email](mailto:dmnitin97+grad@gmail.com)  
+###   [LinkedIn](https://www.linkedin.com/in/nitindm97)   |   [GitHub](https://github.com/NITIN0601)    |   [Email](mailto:dmnitin97+grad@gmail.com)  
 
 ## PROFESSIONAL SUMMARY
 
@@ -11,17 +11,17 @@ Experienced Data Engineer with 4+ years of expertise in data collection, prepara
 
 ### University of North Texas
 #### Denton, Texas, USA
-Master of Science in Artificial Intelligence | Machine Learning - (GPA: 3.9 / 4)
+**Master of Science in Artificial Intelligence** | *Machine Learning* - (GPA: 3.9 / 4)
 (_August 2021-May 2023_)
 
-Relevant Coursework: Feature Engineering, Empirical Analysis, Data Visualization, Fundamentals of AI, Machine Learning, Deep Learning, Software Development for AI, Bigdata and Data Science, Natural Language Processing, AI for Wearables.
+<ins>Relevant Coursework:</ins> Feature Engineering, Empirical Analysis, Data Visualization, Fundamentals of AI, Machine Learning, Deep Learning, Software Development for AI, Bigdata and Data Science, Natural Language Processing, AI for Wearables.
 
 ### Anna University
 #### Chennai, India
-Bachelor of Engineering | Computer Science and Engineering - (CGPA: 7.65 / 10)
-<right>June 2014 - May 2018
+**Bachelor of Engineering** | *Computer Science and Engineering* - (CGPA: 7.65 / 10)
+(_June 2014-May 2018_)
 
-Relevant Coursework: Information Retrieval, Mobile Computing, Grid and Cloud Computing, Compiler Design, Distributed Systems, Theory of Computation, Design and Analysis of Algorithms, Software Engineering, Database Management Systems, Programming and Data Structures I & II, Internet Programming
+<ins>Relevant Coursework:</ins> Information Retrieval, Mobile Computing, Grid and Cloud Computing, Compiler Design, Distributed Systems, Theory of Computation, Design and Analysis of Algorithms, Software Engineering, Database Management Systems, Programming and Data Structures I & II, Internet Programming
 
 ## CERTIFICATIONS & PUBLICATIONS
 
@@ -51,8 +51,8 @@ Relevant Coursework: Information Retrieval, Mobile Computing, Grid and Cloud Com
 
 ### University of North Texas
 #### Denton, Texas, USA
-**Role:** Teaching Assistant – Computer Science and Engineering
-<right>August 2021 – May 2023
+**Role:** *Teaching Assistant – Computer Science and Engineering*
+(_August 2021–May 2023_)
 
 **Responsibilities:**
 - Assisted professor in developing data pipeline architecture for managing student data and class schedules.
@@ -66,8 +66,8 @@ Relevant Coursework: Information Retrieval, Mobile Computing, Grid and Cloud Com
 
 ### Norton LifeLock Software Services India Pvt. Ltd
 #### Chennai, India
-**Role:** Data Engineer – (Associate SQA Analyst)
-<right>November 2019 - July 2021
+**Role:** *Data Engineer – (Associate SQA Analyst)*
+(_November 2019-July 2021_)
 
 **Responsibilities:**
 - Worked on various Azure services such as Azure Storage, Azure Data Factory, Azure Stream Analytics, Azure Event Hub, and Azure Cosmos DB.
@@ -88,8 +88,8 @@ Relevant Coursework: Information Retrieval, Mobile Computing, Grid and Cloud Com
 
 ### Symantec Software Services India Pvt. Ltd
 #### Chennai, India
-**Role:** Associate Data Analyst – (Associate SQA Analyst)
-<right>July 2018 – October 2019
+**Role:** *Associate Data Analyst – (Associate SQA Analyst)*
+(_July 2018–October 2019_)
 
 **Responsibilities:**
 - Developed Jenkins shared libraries for CI/CD pipeline code reuse.
@@ -105,7 +105,7 @@ Relevant Coursework: Information Retrieval, Mobile Computing, Grid and Cloud Com
 ## PROJECTS
 
 ### MLOPS_Azure-E2E
-<right>January 2023 – May 2023
+(_January 2023–May 2023_)
 - Built an end-to-end pipeline on Azure for deploying machine learning models.
 - Automated model retraining and deployment workflows using Azure ML and Airflow.
 - Utilized the IBM Telco Customer Churn dataset for model development.
@@ -114,7 +114,7 @@ Relevant Coursework: Information Retrieval, Mobile Computing, Grid and Cloud Com
 **Technical Skills:** Azure, Machine Learning, Feature Training, Pipeline, GitHub, TensorFlow, Data Bricks, Azure API, DBX Tool.
 
 ### Gesture Motion
-<right>September 2022 – December 2022
+(_September 2022–December 2022_)
 - Developed a hand gesture recognition system with 95% accuracy.
 - Implemented machine learning model and computer vision techniques.
 - Integrated text-to-speech functionality with 99% conversion accuracy.
@@ -122,7 +122,7 @@ Relevant Coursework: Information Retrieval, Mobile Computing, Grid and Cloud Com
 **Technical Skills:** HTML, JavaScript, CSS, OpenCV, TensorFlow, PoseNet, HOG.
 
 ### Question and Answering using NLP (BERT, AlBERT, GPT2, Roberta)
-<right>January 2022 – May 2022
+(_January 2022–May 2022_)
 - Used pre-trained machine learning models for answer prediction.
 - Visualized document content and compared models for accuracy.
 - Deployed the project on Heroku.
@@ -130,7 +130,7 @@ Relevant Coursework: Information Retrieval, Mobile Computing, Grid and Cloud Com
 **Technical Skills:** Machine Learning Models, Python, Seaborn, Word Cloud, Heroku.
 
 ### Crypto Currency using Data Visualization
-<right>September 2021 – November 2021
+(_September 2021–November 2021_)
 - Created an interactive dashboard for cryptocurrency market insights.
 - Used Python, JavaScript, Plotly, and CoinBase API.
 - Visualized market supply and historical data for various cryptocurrencies.
